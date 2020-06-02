@@ -376,7 +376,7 @@ Mappings:
     star.concord.org:
       Id: arn:aws:acm:us-east-1:612297603577:certificate/2b62511e-ccc8-434b-ba6c-a8c33bbd509e
     star.portal.concord.org:
-      Id: arn:aws:acm:us-east-1:612297603577:certificate/4341186a-57a0-4df1-8b61-05969febe57a
+      Id: arn:aws:acm:us-east-1:612297603577:certificate/0d16fb59-7ca2-4999-a38a-55eede417562
     star.staging.concord.org:
       Id: arn:aws:acm:us-east-1:612297603577:certificate/8297f3b1-eb86-4f91-8035-3fbd2c9f5560
 
